@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
 # Установите свой ключ API GPT-3.5 Turbo
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Создайте бота и диспетчер
 bot = Bot(token='5871193378:AAG47T5rPWd5_Ptos6eLb-nVuq2zq6SuC7Q')
